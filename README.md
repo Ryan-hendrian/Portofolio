@@ -26,7 +26,7 @@ IT & Admin Support | Automation | Documentation | Helpdesk
 ## 📫 Contact
 - Email: hendrian2805@gmail.com
 -HP/Wa : 081223560919
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/hendrian-hendrian-798036219/
 - GitHub: https://github.com/<username>
 
 > *Saya suka membangun skrip kecil untuk mempercepat pekerjaan IT & administrasi sehari-hari.*
