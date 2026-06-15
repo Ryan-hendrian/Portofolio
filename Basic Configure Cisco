@@ -1,0 +1,31 @@
+enable
+configure terminal
+hostname (hostname1)
+user admin password (12345678)
+line console 0
+login local 
+exit 
+vlan 10
+name (...)
+exit 
+vlan 20 
+name (...) 
+exit
+vlan 30 
+name (...)
+exit
+interface vlan 10
+description "..."
+ip address 192.168.1.x 255.255.255.0
+no shutdown
+exit
+interface vlan 20
+description "..."
+ip address 192.168.2.x
+no shutdown
+exit
+interface vlan 30 
+description "..."
+ip address 192.168.3.x
+no shutdown
+exit 
